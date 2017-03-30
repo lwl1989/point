@@ -1,0 +1,139 @@
+a#coffee-link, div#coffee-container {
+    border-radius: 4px;
+    -khtml-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -opera-border-radius: 4px;
+    -webkit-border-radius: 4px;
+}
+
+div#link a {
+    color: #EA9C00;
+    font: bold 10px verdana;
+    letter-spacing: .9px;
+    text-decoration: none;
+}
+
+div#link a:hover {
+    color: #DC5;
+    font: bold 10px verdana;
+    letter-spacing: .9px;
+    text-decoration: underline;
+}
+
+a#coffee-link {
+    background: url('../img/coffee.png') 6px 2px no-repeat;
+    border: 1px solid #D9C640;
+    color: #FFF;
+    display: block;
+    font: bold 10px verdana;
+    letter-spacing: .9px;
+    padding: 4px 5px 4px 26px;
+    text-decoration: none;
+}
+
+a#coffee-link:hover {
+    text-decoration: underline;
+}
+
+div#adsense {
+    font: 10px verdana;
+    color: #AB9927;
+    text-indent: 7px;
+}
+
+div#coffee-container {
+    background-color: #DC5;
+    float: right;
+    margin-right: 15px;
+}
+
+div.description {
+    font: 10px verdana;
+    color: #555;
+    letter-spacing: .1px;
+    margin-bottom: 10px;
+    text-indent: 7px;
+    text-align: left;
+    width: 99%;
+}
+
+div#link {
+    font: 10px verdana;
+    color: #AB9927;
+    text-indent: 7px;
+}
+
+div.notice {
+    font: 9px verdana;
+    color: #777;
+    letter-spacing: .1px;
+    margin-bottom: 3px;
+    text-indent: 7px;
+    text-align: left;
+    width: 99%;
+}
+
+div.session {
+    font: bold 13px verdana;
+    border-bottom: 1px solid #EFEFEF;
+    color: #444;
+    letter-spacing: .7px;
+    margin-bottom: 10px;
+    margin-top: 24px;
+    text-align: left;
+    width: 99%;
+}
+
+div.source {
+    background: #F8F8FF;
+    border: 1px solid #EFEFEF;
+    border-left: 3px solid #CCC;
+    color: #444;
+    font: 12px monospace;
+    letter-spacing: .1px;
+    margin-bottom: 7px;
+    margin-top: 5px;
+    padding: 7px;
+    width: 99%;
+}
+
+div.text {
+    font: 10px verdana;
+    color: #555;
+    letter-spacing: .1px;
+    margin-bottom: 20px;
+    margin-top: 5px;
+    text-align: left;
+    text-indent: 7px;
+    width: 99%;
+}
+
+div.title {
+    font: bold 17px verdana;
+    color: #269;
+    letter-spacing: .7px;
+    margin-bottom: 20px;
+    margin-top: 5px;
+    text-align: left;
+    width: 99%;
+}
+
+span.comment-html, span.comment-script {
+    font: 12px monospace;
+    letter-spacing: .1px;
+    margin-bottom: 7px;
+    margin-top: 5px;
+}
+
+span.comment-html {
+    color: #5e85de;
+}
+
+span.comment-script {
+    color: #578F73;
+}
+
+span#version {
+    color: #777;
+    font: 10px verdana;
+}

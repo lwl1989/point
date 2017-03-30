@@ -1,0 +1,12 @@
+User-Agent: Baiduspider
+Allow: /categories
+Allow: /shop/*
+Disallow: /static
+Disallow: /data
+Disallow: /api
+Disallow: /application
+Disallow: /docs
+Disallow: /fonts
+Disallow: /system
+#Disallow 禁止收录的目录  Allow收录的目录 
+

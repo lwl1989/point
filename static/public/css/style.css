@@ -1,0 +1,199 @@
+.navbar-default{background:white;}
+.navbar-brand{padding-top:5px;}
+.navbar-default .navbar-nav > li > a,.btn-default,.radio label, .checkbox label{
+    color:#32465D;font-weight:bolder;font-size:16px;
+}
+.btn,.control-labels{font-weight:bold;font-size:16px;margin-left:20px;}
+.qqsina{background-repeat:no-repeat;padding:0px;border:none;}
+.bdshare-slide-style-l0 .bdshare-slide-button {
+    background:url("images/10.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+.bdshare-slide-button-box .bdshare-slide-button {
+    display: block;    height: 95px;    position: absolute;   top: 100px;    width: 40px;
+}
+a:link, a:visited {
+    color: #32465D;    text-decoration: none;
+}
+.bdshare-slide-list-box {
+    background: none repeat scroll 0 0 #f6f6f6;    border: 1px solid #e9e9e9;    overflow: hidden;    text-align: left; border-radius:4px;
+}
+.bdshare-slide-top {
+    color: #626262;    font-size: 14px;    font-weight: bold;    height: 28px;    line-height: 28px;    overflow: hidden;    padding: 0 5px;
+}
+.bdshare-slide-list {
+    background: none repeat scroll 0 0 #fff;    margin: 0;    overflow-x: hidden;    overflow-y: auto;    padding: 5px 0;
+}
+.bdshare-slide-list-ul {
+    border: 0 none;    list-style: outside none none;    margin: 0;    padding: 0;
+}
+.bdshare-slide-bottom {
+    clear: both;    font-size: 12px;    height: 30px;   line-height: 25px;    text-align: right;
+}
+.navbar-default {background:white;}
+.navbar-brand {padding-top:5px;}
+.navbar-default .navbar-nav>li>a, .btn-default, .radio label, .checkbox label{color: #32465D;font-weight: bolder;font-size: 16px;}
+.btn {font-weight: bolder;font-size:16px;}
+/* 最大宽度为768px时，里面的样式生效；即宽度小于768px时，里面的样式生效 */
+@media(max-width:768px){
+    .mediaPaddingLeft{
+        padding-left:10px;
+    }
+}
+.mediaPaddingLeft a{color:#32465D;font-weight:bolder;font-size:16px;margin:15px 0 0 10px;display:inline-block;}
+.leftTitle,.rightTitle{background:#32465D;font-size: 18px;color:white;height:45px;line-height:45px;vertical-align:middle;text-align:center;font-family:微软雅黑;}
+.leftTitle{text-align:center;}
+.rightTitle{text-align:left;}
+.left-mid{width:33.33%;float:left;border-right:dotted 1px #ccc;}
+.left-mid:last-child{border-right:none;}
+.left-mid div{text-align:center;white-space:nowrap;}
+.num{color:#9A5C33;font-size:30px;}
+.content{font-weight:bolder;}
+.list-group .boderBottom{border-top:none;border-right:none; border-bottom:solid 1px #ccc;border-left:none;margin-bottom:0px;font-size:16px;
+    padding-top:0px;padding-bottom:0px;height:74px;line-height:74px;}
+/* .form-horizontal .form-group .control-label{text-align:left;} */
+.form-select,.form-select1{padding:10px;width:150px;border-radius:5px;}
+.form-select{background:#32465D;border-color:#32465D;color:white;}
+.form-select1{background:#ccc;margin-left:10px;border-color:#ccc;}
+.dropdown-menu{min-width:50px;left:-42px;}
+.dropdown-menu1{min-width:50px;left:-42px;}
+.dropdown-menu2{min-width:50px;left:-27px;}
+.table{border-bottom:solid 1px #ccc;}
+.table-hover > tbody > tr:hover{background-color: #D9EEF4;}
+.tabbable .total-num{float:right;}
+.tabbable .total-num a,.tabbable .total-num a:hover,.tabbable .total-num a:active,.tabbable .total-num a:visited{
+    background:transparent;border:solid 2px #32465D;padding-top:2px;padding-bottom:2px;border:solid 2px #32465D;
+    border-radius:5px;margin-top:7px;margin-left:10px;}
+.space-table{border-collapse:separate;border-spacing:5px;}
+.space-table td{margin-top:10px;margin-left:5px;}
+.table > tbody + tbody {
+    border-top: 1px solid #ddd;
+}
+.padding-left tr td:first-child{text-indent:10px;}
+.right-bottom{padding-left:10px;}
+.right-bottom .row{border-bottom:solid 1px #ccc;padding-top:10px;padding-bottom:10px;}
+.right-bottom .row:first-child{border-top:solid 1px #ccc;margin-top:30px;}
+.title,.right-content{color:#657471;}
+.title{font-size:16px;font-weight:bolder;padding-left:0px;width:50%;float:left;}
+.right-content{font-size:13px;}
+.right-content .col-md-1,.right-content .col-md-5,.right-content .col-md-6{float:left;}
+.right-content .col-md-1{width:8.333%;}
+.right-content .col-md-5{width:41.666%;}
+.right-content .col-md-6{width:50%;}
+.navbar-default {background:white;}
+.navbar-brand {padding-top:5px;}
+.navbar-default .navbar-nav>li>a, .btn-default, .radio label, .checkbox label{color: #32465D;font-weight: bolder;font-size: 16px;}
+.btn {font-weight: bolder;font-size:16px;}
+/* 最大宽度为768px时，里面的样式生效；即宽度小于768px时，里面的样式生效 */
+@media(max-width:768px){
+    .mediaPaddingLeft{
+        padding-left:10px;
+    }
+}
+.right-mid {
+    text-align: center;
+    font-weight: bolder;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.right-mid>li {
+    height: 62px;
+    padding-left: 0px;
+}
+.right-mid>li:not(:last-child) {
+    border-right: dotted 1px #ccc;
+}
+.right-mid>li>div {
+    height: 31px;
+    line-height: 31px;
+    text-align: left;
+    white-space: nowrap;
+}
+.tabbable .new-collect a, .tabbable .new-collect a:hover, .tabbable .new-collect a:active, .tabbable .new-collect a:visited {
+    background: #32465D;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border-radius: 5px;
+    margin-top: 7px;
+}
+.tabbable .new-collect a, .tabbable .new-collect a:hover, .tabbable .new-collect a:active, .tabbable .new-collect a:visited {
+    background: #32465D;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border-radius: 5px;
+    margin-top: 7px;
+}
+.tabbable .total-num, .tabbable .new-collect {
+    float: right;
+}
+.score_document{
+    font-size: 6px;
+}
+.score_document .img{
+    vertical-align:text-top;
+}
+.navbar-default{background:white;}
+.navbar-brand{padding-top:5px;}
+.navbar-default .navbar-nav > li > a,.btn-default,.radio label, .checkbox label{
+    color:#32465D;font-weight:bolder;font-size:16px;
+}
+.btn,.control-label{font-weight:bolder;font-size:16px;}
+.qqsina{background-repeat:no-repeat;padding:0px;border:none;}
+.error{
+    color:red;}
+.sidebar-image{
+    height: 400px; padding: 2px; background: white;
+}
+.theme-popover-mask {
+    z-index: 9998;
+    position:fixed;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    background:#000;
+    opacity:0.4;
+    filter:alpha(opacity=40);
+    display:none
+}
+.theme-popover {
+    z-index:9999;
+    position:fixed;
+    top:30%;
+    left:30%;
+    width:30%;
+    height:230px;
+    /*margin:-180px 0 0 -330px;*/
+    border-radius:5px;
+    border:solid 2px #666;
+    background-color:#fff;
+    display:none;
+    box-shadow: 0 0 10px #666;
+}
+
+<!--.theme-popbod {
+        padding:60px 15px;
+        color:#444;
+        height: 148px;
+    }-->
+.dform {
+    padding:10px 30px 40px;
+    text-align: center;
+}
+#myModal{
+    z-index:9999;
+    position:fixed;
+    top:30%;
+    left:30%;
+    display:none;
+}
+/*上传文档*/
+#myModal2{
+    z-index:9999;
+    position:fixed;
+    top:30%;
+    left:30%;
+    display:none;
+}
+.dropdown-toggle{
+    display: block;
+}

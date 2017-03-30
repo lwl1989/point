@@ -1,0 +1,2 @@
+ALTER TABLE  `edu_db_document` CHANGE  `file_type`  `file_type` VARCHAR( 25 ) CHARACTER SET utf8 COLLATE utf8_general_ci NULL
+ALTER TABLE  `edu_db_document` CHANGE  `ext`  `ext` VARCHAR( 10 ) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL
